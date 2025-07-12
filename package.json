@@ -1,0 +1,14 @@
+{
+  "main": "./src/app.ts",
+  "scripts": {
+    "start": "npx ts-node ."
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "djs-bot-base": "^1.5.0-beta.3",
+    "dotenv": "^17.2.0"
+  },
+  "devDependencies": {
+    "patch-package": "^8.0.0"
+  }
+}
